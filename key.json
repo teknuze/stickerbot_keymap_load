@@ -1,0 +1,26 @@
+[
+	{
+		"trigger": "devop",
+		"url" : "https://media.giphy.com/media/3oFzmbnC7j8dTQ0NeU/giphy.gif",
+		"caption" : "Tap if Agree",
+		"cheer" : "I totally Agree!"
+	},
+	{
+		"trigger": "eureka",
+		"url" : "https://media.giphy.com/media/xULW8B04NTZttdIDQY/giphy.gif",
+		"caption" : "YesPed!",
+		"cheer" : "Woooooooooo!"
+	},
+	{
+		"trigger": "nott",
+		"url" : "https://i.imgur.com/sQ4mR5T.jpg",
+		"caption" : "Nott Agree",
+		"cheer" : "I totally Nott Agree!"
+	},
+	{
+		"trigger": "template",
+		"url" : "https://media.giphy.com/media/eVy46EWyclTIA/giphy.gif",
+		"caption" : "12char limit",
+		"cheer" : "Put Any response text you want here"
+	}
+]
