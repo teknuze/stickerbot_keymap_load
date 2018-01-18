@@ -18,6 +18,12 @@
 		"cheer" : "I totally Nott Agree!"
 	},
 	{
+		"trigger": "rainbow",
+		"url" : "https://media3.giphy.com/media/BSx6mzbW1ew7K/giphy.gif",
+		"caption" : "Make It Rain",
+		"cheer" : "🌈🌈🌈 Rainbow 🌈🌈🌈"
+	},
+	{
 		"trigger": "template",
 		"url" : "https://media.giphy.com/media/eVy46EWyclTIA/giphy.gif",
 		"caption" : "12char limit",
