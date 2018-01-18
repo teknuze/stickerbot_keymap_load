@@ -22,5 +22,11 @@
 		"url" : "https://media.giphy.com/media/eVy46EWyclTIA/giphy.gif",
 		"caption" : "12char limit",
 		"cheer" : "Put Any response text you want here"
+	},
+	{
+		"trigger": "rainbow",
+		"url" : "https://media3.giphy.com/media/BSx6mzbW1ew7K/giphy.gif",
+		"caption" : "Make it Rainbowww",
+		"cheer" : "🌈🌈🌈 Rainbow 🌈🌈🌈"
 	}
 ]
