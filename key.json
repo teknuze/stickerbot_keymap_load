@@ -18,6 +18,18 @@
 		"cheer" : "I totally Nott Agree!"
 	},
 	{
+		"trigger": "rainbow",
+		"url" : "https://media3.giphy.com/media/BSx6mzbW1ew7K/giphy.gif",
+		"caption" : "Make It Rain",
+		"cheer" : "🌈🌈🌈 Rainbow 🌈🌈🌈"
+	},
+	{
+		"trigger": "specifications",
+		"url" : "https://media.giphy.com/media/3ohs4dwOwXIErnWcY8/giphy.gif",
+		"caption" : "ถูก Spec",
+		"cheer" : "แอบมองเธออยู่นะจ๊ะ แต่เธอไม่รู้บ้างเลย~"
+	},
+	{
 		"trigger": "template",
 		"url" : "https://media.giphy.com/media/eVy46EWyclTIA/giphy.gif",
 		"caption" : "12char limit",
