@@ -30,6 +30,18 @@
 		"cheer" : "แอบมองเธออยู่นะจ๊ะ แต่เธอไม่รู้บ้างเลย~"
 	},
 	{
+		"trigger": "nygasm",
+		"url" : "https://media2.giphy.com/media/l4pTrrvPeEAuEQSt2/giphy.gif",
+		"caption" : "OH YES!",
+		"cheer" : "YES!!"
+	},
+	{
+		"trigger": "nycry",
+		"url" : "https://media2.giphy.com/media/xUOwGeuPw1OiMLtepO/giphy.gif",
+		"caption" : "TT*TT",
+		"cheer" : "ㅠㅠ"
+	},
+	{
 		"trigger": "template",
 		"url" : "https://media.giphy.com/media/eVy46EWyclTIA/giphy.gif",
 		"caption" : "12char limit",
