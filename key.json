@@ -42,6 +42,18 @@
 		"cheer" : "ㅠㅠ"
 	},
 	{
+		"trigger": "yuraika",
+		"url" : "https://media.giphy.com/media/5q2a4rG39rjOcj21Qb/giphy.gif",
+		"caption" : "Rock on!",
+		"cheer" : "🤘🤘🤘🤘🤘"
+	},
+	{
+		"trigger": "สวยที่สุด",
+		"url" : "https://media.giphy.com/media/pzhAooPeMwY39XMPXy/giphy.gif",
+		"caption" : "สุดสวยค่ะ",
+		"cheer" : "#teamsoya"
+	},
+	{
 		"trigger": "template",
 		"url" : "https://media.giphy.com/media/eVy46EWyclTIA/giphy.gif",
 		"caption" : "12char limit",
