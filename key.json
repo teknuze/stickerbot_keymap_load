@@ -54,6 +54,12 @@
 		"cheer" : "#teamsoya"
 	},
 	{
+		"trigger": "thumbs-up",
+		"url" : "https://media.giphy.com/media/2aFZif37Lb5B37xxQ3/giphy.gif",
+		"caption" : "ไลค์หน่อย",
+		"cheer" : "Like 👍"
+	},
+	{
 		"trigger": "template",
 		"url" : "https://media.giphy.com/media/eVy46EWyclTIA/giphy.gif",
 		"caption" : "12char limit",
